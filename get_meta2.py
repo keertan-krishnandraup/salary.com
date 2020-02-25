@@ -86,12 +86,12 @@ async def issue_search(kw_queue):
         consul2_dict = {}
         consul2_dict['meta'] = kw
         consul2_dict['data'] = i
-        logging.info(f'Inserting {consul2_dict}')
+        logging.info(f'Inserting {consul2_dict["data"]["JobRole"]}')
         x = await consul2_coll.find_one_and_update(
             {'data.JobRole': consul2_dict['data']['JobRole']},
             {'$set': consul2_dict},
             upsert=True)
-        print(x)
+        #print(x)
 
 
 async def get_search_res_queue(kw_queue, process_queue_size):
@@ -100,6 +100,7 @@ async def get_search_res_queue(kw_queue, process_queue_size):
         if(not kw_queue.empty()):
             await search_queue.put(kw_queue.get())
     logging.info(f'Initiated async queues of {process_queue_size}')
+    logging.info(f'Worker async queue size:{search_queue.qsize()}')
     print(search_queue.qsize())
     tasks = []
     div_factor = 30
@@ -109,6 +110,7 @@ async def get_search_res_queue(kw_queue, process_queue_size):
         for i in range(times):
             task = asyncio.Task(issue_search(search_queue))
             tasks.append(task)
+        logging.info(f'Initiating {times} batch tasks')
         await asyncio.gather(*tasks)
 
 def driver(process_queue_size, kw_queue):

@@ -30,8 +30,9 @@ async def get_salary_from_page_w_locs(data_queue, sal_type):
         harvests_db = client['salarydotcom']
         data_coll = harvests_db['salary_data_loc'+sal_type]
         data_dict = {"meta3":meta_data, "data":{"JobRole": meta_data['Job Role'], "YOE":yoe[y], "Location": meta_data['Location Details']['location_name'],"salary_data":salary_dict}}
+        logging.info(f'DP OP: Inserting data for {data_dict["data"]["JobRole"]}')
         await data_coll.find_one_and_update({'data.JobRole':meta_data['Job Role']},{'$set':data_dict}, upsert=True)
-        print(data_dict)
+        #print(data_dict)
 
 
 
@@ -40,12 +41,13 @@ async def make_tasks_and_exc(process_queue_size, data_queue, sal_type):
     for i in range(process_queue_size):
         if(not data_queue.empty()):
             await async_queue.put(data_queue.get())
-    print(async_queue.qsize())
+    logging.info(f'Initializing async worker queue of size: {(async_queue.qsize())}')
     tasks = []
     div_factor = 30
     times = async_queue.qsize() // div_factor
     for _ in range(times + 1):
         await asyncio.sleep(0.2)
+        logging.info(f'Making {times} async tasks')
         for i in range(times):
             task = asyncio.Task(get_salary_from_page_w_locs(async_queue, sal_type))
             tasks.append(task)
@@ -58,9 +60,10 @@ def driver_sal_locs(process_queue_size, data_queue, sal_type):
 
 def get_salary_locs(sal_type, no_processes):
     data_queue = get_data_q(sal_type)
-    print(data_queue.qsize())
+    logging.info(f'Master Queue Size:{(data_queue.qsize())}')
     process_queue_size = (data_queue.qsize() // no_processes) + 1
     with multiprocessing.Pool(no_processes) as p:
+        logging.info(f'Initiating pool of {no_processes} worker processes')
         multi = [p.apply_async(driver_sal_locs, (process_queue_size, data_queue, sal_type,)) for i in range(no_processes)]
         # clean up
         p.close()

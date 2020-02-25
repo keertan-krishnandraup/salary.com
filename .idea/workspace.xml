@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="877a08ab-9aa6-4022-8952-7f37811b74ba" name="Default Changelist" comment="" />
+    <list default="true" id="877a08ab-9aa6-4022-8952-7f37811b74ba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_meta2.py" beforeDir="false" afterPath="$PROJECT_DIR$/get_meta2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_salary.py" beforeDir="false" afterPath="$PROJECT_DIR$/get_salary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_salary_locs.py" beforeDir="false" afterPath="$PROJECT_DIR$/get_salary_locs.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +20,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XyPnff7jzeTRUcI2ZxflNbJtOP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,9 +32,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.get_meta1">
+  <component name="RunManager" selected="Python.get_salary_locs">
     <configuration name="get_jtsmt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="salary.com" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="just_salary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="get_meta2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="salary.com" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,7 +90,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/just_salary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_meta2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="salary_w_locs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="get_salary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="salary.com" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,7 +111,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/salary_w_locs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_salary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="validate_jts" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="get_salary_locs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="salary.com" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,7 +132,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/validate_jts.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_salary_locs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.get_salary_locs" />
+        <item itemvalue="Python.get_salary" />
+        <item itemvalue="Python.get_meta2" />
         <item itemvalue="Python.get_meta1" />
         <item itemvalue="Python.get_jtsmt" />
-        <item itemvalue="Python.validate_jts" />
-        <item itemvalue="Python.salary_w_locs" />
-        <item itemvalue="Python.just_salary" />
       </list>
     </recent_temporary>
   </component>
@@ -158,22 +169,22 @@
       <screen x="67" y="27" width="1533" height="873" />
     </state>
     <state x="641" y="207" width="424" height="484" key="FileChooserDialogImpl/67.27.1533.873@67.27.1533.873" timestamp="1582197401530" />
-    <state width="1510" height="292" key="GridCell.Tab.0.bottom" timestamp="1582618283082">
+    <state width="1510" height="292" key="GridCell.Tab.0.bottom" timestamp="1582620065319">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state width="1510" height="292" key="GridCell.Tab.0.bottom/67.27.1533.873@67.27.1533.873" timestamp="1582618283082" />
-    <state width="1510" height="292" key="GridCell.Tab.0.center" timestamp="1582618283082">
+    <state width="1510" height="292" key="GridCell.Tab.0.bottom/67.27.1533.873@67.27.1533.873" timestamp="1582620065319" />
+    <state width="1510" height="292" key="GridCell.Tab.0.center" timestamp="1582620065319">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state width="1510" height="292" key="GridCell.Tab.0.center/67.27.1533.873@67.27.1533.873" timestamp="1582618283082" />
-    <state width="1510" height="292" key="GridCell.Tab.0.left" timestamp="1582618283082">
+    <state width="1510" height="292" key="GridCell.Tab.0.center/67.27.1533.873@67.27.1533.873" timestamp="1582620065319" />
+    <state width="1510" height="292" key="GridCell.Tab.0.left" timestamp="1582620065318">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state width="1510" height="292" key="GridCell.Tab.0.left/67.27.1533.873@67.27.1533.873" timestamp="1582618283082" />
-    <state width="1510" height="292" key="GridCell.Tab.0.right" timestamp="1582618283082">
+    <state width="1510" height="292" key="GridCell.Tab.0.left/67.27.1533.873@67.27.1533.873" timestamp="1582620065318" />
+    <state width="1510" height="292" key="GridCell.Tab.0.right" timestamp="1582620065319">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state width="1510" height="292" key="GridCell.Tab.0.right/67.27.1533.873@67.27.1533.873" timestamp="1582618283082" />
+    <state width="1510" height="292" key="GridCell.Tab.0.right/67.27.1533.873@67.27.1533.873" timestamp="1582620065319" />
     <state width="1510" height="272" key="GridCell.Tab.1.bottom" timestamp="1582539935797">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
@@ -198,9 +209,9 @@
       <screen x="67" y="27" width="1533" height="873" />
     </state>
     <state x="383" y="150" width="890" height="624" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/67.27.1533.873@67.27.1533.873" timestamp="1582532218031" />
-    <state x="521" y="209" width="672" height="678" key="search.everywhere.popup" timestamp="1582520213403">
+    <state x="521" y="209" width="672" height="678" key="search.everywhere.popup" timestamp="1582619729816">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state x="521" y="209" width="672" height="678" key="search.everywhere.popup/67.27.1533.873@67.27.1533.873" timestamp="1582520213403" />
+    <state x="521" y="209" width="672" height="678" key="search.everywhere.popup/67.27.1533.873@67.27.1533.873" timestamp="1582619729816" />
   </component>
 </project>

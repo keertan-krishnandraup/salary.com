@@ -1,0 +1,308 @@
+INFO:root:Master Queue Size:3182
+INFO:root:Initiating pool of 16 worker processes
+DEBUG:asyncio:Using selector: EpollSelector
+DEBUG:asyncio:Using selector: EpollSelector
+DEBUG:asyncio:Using selector: EpollSelector
+DEBUG:asyncio:Using selector: EpollSelector
+DEBUG:asyncio:Using selector: EpollSelector
+DEBUG:asyncio:Using selector: EpollSelector
+DEBUG:asyncio:Using selector: EpollSelector
+DEBUG:asyncio:Using selector: EpollSelector
+DEBUG:asyncio:Using selector: EpollSelector
+DEBUG:asyncio:Using selector: EpollSelector
+DEBUG:asyncio:Using selector: EpollSelector
+DEBUG:asyncio:Using selector: EpollSelector
+DEBUG:asyncio:Using selector: EpollSelector
+DEBUG:asyncio:Using selector: EpollSelector
+DEBUG:asyncio:Using selector: EpollSelector
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:root:Initializing async worker queue of size: 199
+INFO:root:Initializing async worker queue of size: 199
+INFO:root:Initializing async worker queue of size: 199
+INFO:root:Initializing async worker queue of size: 199
+INFO:root:Initializing async worker queue of size: 199
+INFO:root:Initializing async worker queue of size: 199
+INFO:root:Initializing async worker queue of size: 199
+INFO:root:Initializing async worker queue of size: 199
+INFO:root:Initializing async worker queue of size: 199
+INFO:root:Initializing async worker queue of size: 199
+INFO:root:Initializing async worker queue of size: 199
+INFO:root:Initializing async worker queue of size: 199
+INFO:root:Initializing async worker queue of size: 199
+INFO:root:Initializing async worker queue of size: 199
+INFO:root:Initializing async worker queue of size: 199
+INFO:root:Making 6 async tasks
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/physician-pediatric-neonatology/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/distribution-center-operations-manager/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/account-manager-iii/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/chemical-laboratory-technician-iii/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/cardiac-certified-registered-nurse-practitioner-crnp/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/rehabilitation-director/sheridan-wy?type=basey&view=table
+INFO:root:Making 6 async tasks
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/addiction-treatment-counselor-case-manager/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/cardiac-monitor-technician/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/ct-cat-scan-technologist-leader/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/global-foreign-exchange-trading-executive/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/revenue-recognition-accountant-iii/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/validation-engineer-iv/sheridan-wy?type=basey&view=table
+INFO:root:Making 6 async tasks
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/atm-service-technician/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/certified-scrub-technologist/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/cardiac-anesthesiologist/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/genetics-counselor/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/family-crisis-counselor/sheridan-wy?type=basey&view=table
+INFO:root:Making 6 async tasks
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/manager-of-general-accounting/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/cardiovascular-technologist-catheterization-lab/sheridan-wy?type=basey&view=table
+INFO:root:Making 6 async tasks
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/revenue-analyst-i/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/private-detective/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/revenue-integrity-specialist/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/sales-training-delivery-manager/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/pediatric-orthopedic-surgeon/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/junior-content-writer/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/laboratory-supervisor-ii/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/architectural-technologist/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/atm-manager-service-and-operations/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/private-label-manager/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/hand-packer/sheridan-wy?type=basey&view=table
+INFO:root:Making 6 async tasks
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/senior-digital-content-writer/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/revenue-accounting-analyst-entry/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/private-label-product-and-merchandising-manager/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/packer-packager-hand/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/is-manager/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/revenue-cycle-specialist/sheridan-wy?type=basey&view=table
+INFO:root:Making 6 async tasks
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/trader-corporate-bonds-iii/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/revenue-cycle-director/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/substance-abuse-center-director-hosp-op/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/trading-margin-clerk-i/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/investment-sales-manager-bonds/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/children-counselor/sheridan-wy?type=basey&view=table
+INFO:root:Making 6 async tasks
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/food-and-beverage-technologist/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/cancer-treatment-center-director-hosp-op/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/pediatric-dental-assistant/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/pediatric-nurse-practitioner-np/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/counselor-healthcare-financial-assistance/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/special-investigations-unit-director/sheridan-wy?type=basey&view=table
+INFO:root:Making 6 async tasks
+INFO:root:Making 6 async tasks
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/atm-network-operations-manager/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/pediatric-cardiac-sonographer/sheridan-wy?type=basey&view=table
+INFO:root:Making 6 async tasks
+INFO:root:Making 6 async tasks
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/atm-provisioning-technician/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/supervisor-trading-margin-department/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/architectural-technologist-iii/sheridan-wy?type=basey&view=table
+INFO:root:Making 6 async tasks
+INFO:root:Making 6 async tasks
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/revenue-recognition-accountant-i/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/magnetic-resonance-imaging-mri-technologist/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/orthodontic-treatment-coordinator/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/pathologist-pediatric-speech-language-home-care/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/chemical-laboratory-technician-i/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/physician-doctor-pediatric-neurologist/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/epic-consultant/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/electroencephalograph-technologist/sheridan-wy?type=basey&view=table
+INFO:root:Making 6 async tasks
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/atm-system-operations-manager/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/investment-trading-analyst/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/employee-assistance-program-counselor/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/report-writer-epic/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/bereavement-support-counselor/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/certified-vocational-rehab-counselor/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/pediatric-dental-hygienist/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/cardiologist-fellow/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/mechanical-engineering-technologist-i/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/radiation-therapist-arrt/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/housing-coordinator/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/otc-trading-support-clerk/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/sewer-hand/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/bond-interest-clerk-sr/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/account-manager-iv/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/pediatric-optometrist/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/over-the-counter-trading-clerk/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/technologist-computed-tomography-ct-scan/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/epic-technical-problem-solver/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/intermediate-private-banker/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/bond-sales-manager/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/radiologic-technologist/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/pediatric-physical-therapist/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/pediatric-supervising-nurse/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/mechanical-engineering-technologist-iii/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/clinical-oncology-treatment-center-director/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/director-of-substance-abuse-clinical-center/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/account-management-manager/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/counselor-higher-ed/sheridan-wy?type=basey&view=table
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/chemical-laboratory-technician-iii/sheridan-wy?type=basey&view=table : 200
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/cardiologist-fellow/sheridan-wy?type=basey&view=table : 200
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/is-manager/sheridan-wy?type=basey&view=table : 200
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/physician-pediatric-neonatology/sheridan-wy?type=basey&view=table : 200
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/junior-content-writer/sheridan-wy?type=basey&view=table : 200
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/orthodontic-treatment-coordinator/sheridan-wy?type=basey&view=table : 200
+INFO:root:DP OP: Inserting data for IS Manager
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/genetics-counselor/sheridan-wy?type=basey&view=table : 200
+INFO:root:DP OP: Inserting data for Physician - Pediatric Neonatology
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/food-and-beverage-technologist/sheridan-wy?type=basey&view=table : 200
+INFO:root:DP OP: Inserting data for Cardiologist Fellow
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/is-manager/sheridan-wy?type=basey&view=table
+INFO:root:DP OP: Inserting data for Orthodontic Treatment Coordinator
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/physician-pediatric-neonatology/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/cardiologist-fellow/sheridan-wy?type=basey&view=table
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/radiation-therapist-arrt/sheridan-wy?type=basey&view=table : 200
+INFO:root:DP OP: Inserting data for Genetics Counselor
+INFO:root:DP OP: Inserting data for Food and Beverage Technologist
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/epic-consultant/sheridan-wy?type=basey&view=table : 200
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/genetics-counselor/sheridan-wy?type=basey&view=table
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/atm-network-operations-manager/sheridan-wy?type=basey&view=table : 200
+INFO:root:DP OP: Inserting data for Radiation Therapy Technologist (ARRT)
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/food-and-beverage-technologist/sheridan-wy?type=basey&view=table
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/cardiac-anesthesiologist/sheridan-wy?type=basey&view=table : 200
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/orthodontic-treatment-coordinator/sheridan-wy?type=basey&view=table
+INFO:root:DP OP: Inserting data for Junior Content Writer
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/radiation-therapist-arrt/sheridan-wy?type=basey&view=table
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/rehabilitation-director/sheridan-wy?type=basey&view=table : 200
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/junior-content-writer/sheridan-wy?type=basey&view=table
+INFO:root:DP OP: Inserting data for Epic Consultant
+INFO:root:DP OP: Inserting data for Rehabilitation Director
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/revenue-recognition-accountant-i/sheridan-wy?type=basey&view=table : 200
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/epic-consultant/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/rehabilitation-director/sheridan-wy?type=basey&view=table
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/technologist-computed-tomography-ct-scan/sheridan-wy?type=basey&view=table : 200
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/revenue-analyst-i/sheridan-wy?type=basey&view=table : 200
+INFO:root:DP OP: Inserting data for ATM Network Operations Manager
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/atm-network-operations-manager/sheridan-wy?type=basey&view=table
+INFO:root:DP OP: Inserting data for Cardiac Anesthesiologist
+INFO:root:DP OP: Inserting data for Revenue Analyst I
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/cardiac-anesthesiologist/sheridan-wy?type=basey&view=table
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/hand-packer/sheridan-wy?type=basey&view=table : 200
+INFO:root:DP OP: Inserting data for Hand Packer
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/revenue-analyst-i/sheridan-wy?type=basey&view=table
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/bond-interest-clerk-sr/sheridan-wy?type=basey&view=table : 200
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/hand-packer/sheridan-wy?type=basey&view=table
+INFO:root:DP OP: Inserting data for Technologist - Computed Tomography (CT) Scan
+INFO:root:DP OP: Inserting data for Bond Interest Clerk, Sr.
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/technologist-computed-tomography-ct-scan/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/bond-interest-clerk-sr/sheridan-wy?type=basey&view=table
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/account-manager-iv/sheridan-wy?type=basey&view=table : 200
+INFO:root:DP OP: Inserting data for Account Manager IV
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/account-manager-iv/sheridan-wy?type=basey&view=table
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/pediatric-optometrist/sheridan-wy?type=basey&view=table : 200
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/senior-digital-content-writer/sheridan-wy?type=basey&view=table : 200
+INFO:root:DP OP: Inserting data for Chemical Laboratory Technician III
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/chemical-laboratory-technician-iii/sheridan-wy?type=basey&view=table
+INFO:root:DP OP: Inserting data for Pediatric Optometrist
+INFO:root:DP OP: Inserting data for Senior Digital Content Writer
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/pediatric-optometrist/sheridan-wy?type=basey&view=table
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/bereavement-support-counselor/sheridan-wy?type=basey&view=table : 200
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/senior-digital-content-writer/sheridan-wy?type=basey&view=table
+INFO:root:DP OP: Inserting data for Bereavement Support Counselor
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/bereavement-support-counselor/sheridan-wy?type=basey&view=table
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/distribution-center-operations-manager/sheridan-wy?type=basey&view=table : 200
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/private-label-manager/sheridan-wy?type=basey&view=table : 200
+INFO:root:DP OP: Inserting data for Private Label Manager
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/private-label-manager/sheridan-wy?type=basey&view=table
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/sewer-hand/sheridan-wy?type=basey&view=table : 200
+INFO:root:DP OP: Inserting data for Sewer, Hand
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/sewer-hand/sheridan-wy?type=basey&view=table
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/counselor-higher-ed/sheridan-wy?type=basey&view=table : 200
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/over-the-counter-trading-clerk/sheridan-wy?type=basey&view=table : 200
+INFO:root:DP OP: Inserting data for Counselor - Higher Ed.
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/counselor-higher-ed/sheridan-wy?type=basey&view=table
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/magnetic-resonance-imaging-mri-technologist/sheridan-wy?type=basey&view=table : 200
+INFO:root:DP OP: Inserting data for Magnetic Resonance Imaging (MRI) Technologist
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/magnetic-resonance-imaging-mri-technologist/sheridan-wy?type=basey&view=table
+INFO:root:DP OP: Inserting data for Revenue Recognition Accountant I
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/revenue-recognition-accountant-i/sheridan-wy?type=basey&view=table
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/special-investigations-unit-director/sheridan-wy?type=basey&view=table : 200
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/investment-sales-manager-bonds/sheridan-wy?type=basey&view=table : 200
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/investment-trading-analyst/sheridan-wy?type=basey&view=table : 200
+INFO:root:DP OP: Inserting data for Investment Sales Manager - Bonds
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/investment-sales-manager-bonds/sheridan-wy?type=basey&view=table
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/architectural-technologist-iii/sheridan-wy?type=basey&view=table : 200
+INFO:root:DP OP: Inserting data for Special Investigations Unit Director
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/special-investigations-unit-director/sheridan-wy?type=basey&view=table
+INFO:root:DP OP: Inserting data for Investment Trading Analyst
+INFO:root:DP OP: Inserting data for Architectural Technologist III
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/investment-trading-analyst/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/architectural-technologist-iii/sheridan-wy?type=basey&view=table
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/atm-provisioning-technician/sheridan-wy?type=basey&view=table : 200
+INFO:root:DP OP: Inserting data for ATM Provisioning Technician
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/atm-provisioning-technician/sheridan-wy?type=basey&view=table
+INFO:root:DP OP: Inserting data for Distribution Center Operations Manager
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/pathologist-pediatric-speech-language-home-care/sheridan-wy?type=basey&view=table : 200
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/distribution-center-operations-manager/sheridan-wy?type=basey&view=table
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/certified-scrub-technologist/sheridan-wy?type=basey&view=table : 200
+INFO:root:DP OP: Inserting data for Pathologist - Pediatric Speech/Language -Home Care
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/pathologist-pediatric-speech-language-home-care/sheridan-wy?type=basey&view=table
+INFO:root:DP OP: Inserting data for Over The Counter Trading Clerk
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/over-the-counter-trading-clerk/sheridan-wy?type=basey&view=table
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/revenue-cycle-specialist/sheridan-wy?type=basey&view=table : 200
+INFO:root:DP OP: Inserting data for Revenue Cycle Specialist
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/revenue-cycle-specialist/sheridan-wy?type=basey&view=table
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/ct-cat-scan-technologist-leader/sheridan-wy?type=basey&view=table : 200
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/atm-system-operations-manager/sheridan-wy?type=basey&view=table : 200
+INFO:root:DP OP: Inserting data for ATM System Operations Manager
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/atm-system-operations-manager/sheridan-wy?type=basey&view=table
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/housing-coordinator/sheridan-wy?type=basey&view=table : 200
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/account-manager-iii/sheridan-wy?type=basey&view=table : 200
+INFO:root:DP OP: Inserting data for Certified Scrub Technologist
+INFO:root:DP OP: Inserting data for Housing Coordinator
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/certified-scrub-technologist/sheridan-wy?type=basey&view=table
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/pediatric-dental-hygienist/sheridan-wy?type=basey&view=table : 200
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/housing-coordinator/sheridan-wy?type=basey&view=table
+INFO:root:DP OP: Inserting data for Account Manager III
+INFO:root:DP OP: Inserting data for CT/CAT Scan Technologist Leader
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/private-label-product-and-merchandising-manager/sheridan-wy?type=basey&view=table : 200
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/account-manager-iii/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/ct-cat-scan-technologist-leader/sheridan-wy?type=basey&view=table
+INFO:root:DP OP: Inserting data for Pediatric Dental Hygienist
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/pediatric-dental-hygienist/sheridan-wy?type=basey&view=table
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/pediatric-nurse-practitioner-np/sheridan-wy?type=basey&view=table : 200
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/epic-technical-problem-solver/sheridan-wy?type=basey&view=table : 200
+INFO:root:DP OP: Inserting data for Pediatric Nurse Practitioner (NP)
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/pediatric-nurse-practitioner-np/sheridan-wy?type=basey&view=table
+INFO:root:DP OP: Inserting data for EPIC Technical Problem Solver
+INFO:root:DP OP: Inserting data for Private Label Product and Merchandising Manager
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/epic-technical-problem-solver/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/private-label-product-and-merchandising-manager/sheridan-wy?type=basey&view=table
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/bond-sales-manager/sheridan-wy?type=basey&view=table : 200
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/global-foreign-exchange-trading-executive/sheridan-wy?type=basey&view=table : 200
+INFO:root:DP OP: Inserting data for Bond Sales Manager
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/bond-sales-manager/sheridan-wy?type=basey&view=table
+INFO:root:DP OP: Inserting data for Global Foreign Exchange Trading Executive
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/global-foreign-exchange-trading-executive/sheridan-wy?type=basey&view=table
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/packer-packager-hand/sheridan-wy?type=basey&view=table : 200
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/pediatric-orthopedic-surgeon/sheridan-wy?type=basey&view=table : 200
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/physician-doctor-pediatric-neurologist/sheridan-wy?type=basey&view=table : 200
+INFO:root:DP OP: Inserting data for Pediatric Orthopedic Surgeon
+INFO:root:DP OP: Inserting data for Physician/Doctor, Pediatric Neurologist
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/pediatric-supervising-nurse/sheridan-wy?type=basey&view=table : 200
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/pediatric-orthopedic-surgeon/sheridan-wy?type=basey&view=table
+INFO:root:DP OP: Inserting data for Packer/Packager, Hand
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/packer-packager-hand/sheridan-wy?type=basey&view=table
+INFO:root:DP OP: Inserting data for Pediatric Supervising Nurse
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/revenue-accounting-analyst-entry/sheridan-wy?type=basey&view=table : 200
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/physician-doctor-pediatric-neurologist/sheridan-wy?type=basey&view=table
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/pediatric-supervising-nurse/sheridan-wy?type=basey&view=table
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/account-management-manager/sheridan-wy?type=basey&view=table : 200
+INFO:root:DP OP: Inserting data for Account Management Manager
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/account-management-manager/sheridan-wy?type=basey&view=table
+INFO:root:DP OP: Inserting data for Revenue Accounting Analyst - Entry
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/revenue-accounting-analyst-entry/sheridan-wy?type=basey&view=table
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/electroencephalograph-technologist/sheridan-wy?type=basey&view=table : 200
+INFO:root:DP OP: Inserting data for Electroencephalograph Technologist
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/electroencephalograph-technologist/sheridan-wy?type=basey&view=table
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/atm-manager-service-and-operations/sheridan-wy?type=basey&view=table : 200
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/supervisor-trading-margin-department/sheridan-wy?type=basey&view=table : 200
+INFO:root:DP OP: Inserting data for Supervisor - Trading Margin Department
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/supervisor-trading-margin-department/sheridan-wy?type=basey&view=table
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/employee-assistance-program-counselor/sheridan-wy?type=basey&view=table : 200
+INFO:root:DP OP: Inserting data for Employee Assistance Program Counselor
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/employee-assistance-program-counselor/sheridan-wy?type=basey&view=table
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/pediatric-cardiac-sonographer/sheridan-wy?type=basey&view=table : 200
+INFO:root:DP OP: Inserting data for ATM Manager (Service & Operations)
+INFO:root:Hitting API Url : https://www.salary.com/tools/salary-calculator/atm-manager-service-and-operations/sheridan-wy?type=basey&view=table
+INFO:root:Status for https://www.salary.com/tools/salary-calculator/private-detective/sheridan-wy?type=basey&view=table : 200
