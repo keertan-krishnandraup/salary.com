@@ -1,3 +1,4 @@
+"""Get location variant data"""
 import logging
 import asyncio
 import aiohttp

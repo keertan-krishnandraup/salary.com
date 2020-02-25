@@ -1,3 +1,4 @@
+"""To get meta-data2, using search terms from meta-data1"""
 import logging
 logging.basicConfig(filename = 'search_log.txt', level = logging.DEBUG, filemode='w')
 import asyncio

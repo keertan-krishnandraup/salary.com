@@ -1,3 +1,4 @@
+"""To get meta-data1, using string manipulations"""
 from pyquery import PyQuery as pq
 import aiohttp
 import asyncio

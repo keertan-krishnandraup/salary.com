@@ -1,3 +1,4 @@
+"""Get meta-data3, and also location invariant data"""
 import logging
 logging.basicConfig(filename = 'search_log.txt', level = logging.DEBUG, filemode='w')
 import asyncio
